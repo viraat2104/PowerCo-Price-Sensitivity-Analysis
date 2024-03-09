@@ -1,6 +1,6 @@
 PowerCo - Price Sensitivity Analysis 
 
-Churn analysis simulation for PwerCo Energy usage data,
+ * Churn analysis simulation for PwerCo Energy usage data,
    demonstrating advanced data analytics skills, identifying essential client
    data and outlining a strategic investigation approach.
  
